@@ -1,2 +1,2 @@
 # sulmaimech.github.io
-My personla webpage
+My personal webpage
